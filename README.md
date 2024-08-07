@@ -16,3 +16,5 @@ Mas Propiedades de lsitview
 ##Listview con listtittle mas iconos , leading , trailing , subtittle
 ![image](https://github.com/user-attachments/assets/81a52a83-e054-4b38-9ec8-7d28f460ba63)
 
+##Listview con listtittle mas iconos , leading , trailing , subtittle , images
+![image](https://github.com/user-attachments/assets/e695a38f-047e-4683-992e-b9a5f207f9db)
